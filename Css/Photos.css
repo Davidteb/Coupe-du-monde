@@ -1,0 +1,38 @@
+/*photoklhjklgkljgkgljkhffjhjhjhjhjhjhjhjhjhjhjhjhjhjhjhjhjhjhjhfjhgh*/
+.page {
+margin-right: 10%;
+margin-left: 10%;
+background-image:url(../Images/background.jpg) ;
+background-position: top;
+background-repeat: no-repeat;
+background-size:cover
+}
+.page2 {
+margin-right: 10%;
+margin-left: 10%;
+background-image:url(../Images/image5.jpg) ; 
+background-position: top;
+background-repeat: no-repeat;
+background-size:cover ;
+}
+.page3 {
+margin-right: 10%;
+margin-left: 10%;
+background-image:url(../Images/foot.jpg) ;
+background-position: top;
+background-repeat: no-repeat;
+background-size:cover ;
+}
+.ImageCenter {
+text-align: center;
+background-color: brown;
+}
+.PiedDePage {
+position: fixed;
+left: 10%;
+right: 10%;
+bottom: 0;
+background-color:brown;
+color: white;
+text-align: center;
+}
