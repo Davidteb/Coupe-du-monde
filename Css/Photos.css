@@ -15,14 +15,6 @@ background-position: top;
 background-repeat: no-repeat;
 background-size:cover ;
 }
-.page3 {
-margin-right: 10%;
-margin-left: 10%;
-background-image:url(../Images/foot.jpg) ;
-background-position: top;
-background-repeat: no-repeat;
-background-size:cover ;
-}
 .ImageCenter {
 text-align: center;
 background-color: brown;
