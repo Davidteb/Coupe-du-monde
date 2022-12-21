@@ -1,4 +1,4 @@
-/*photoklhjklgkljgkgljkhffjhjhjhjhjhjhjhjhjhjhjhjhjhjhjhjhjhjhjhfjhgh*/
+/*Configurer ma page*/
 .page {
 margin-right: 10%;
 margin-left: 10%;
@@ -7,10 +7,12 @@ background-position: top;
 background-repeat: no-repeat;
 background-size:cover
 }
+/*Configurer quelques Div*/
 .ImageCenter {
 text-align: center;
 background-color: brown;
 }
+/*Configurer le pied de la page*/
 .PiedDePage {
 position: fixed;
 left: 10%;
