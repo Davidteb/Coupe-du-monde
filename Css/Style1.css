@@ -1,3 +1,4 @@
+/*Configurer le text et div*/
 .textcenter1 {
 text-align: center;
 color: brown;
@@ -11,6 +12,7 @@ color: aliceblue;
 margin-right: 15px;
 margin-left: 15px;
 }
+/*Configurer bouton page quand elle est selectionée*/
 .textcenter4 {
 text-align: center;
 background-color: aliceblue;
@@ -42,6 +44,7 @@ margin-left: 15px;
 margin-right: 15px;
 padding: 10px 10px;
 }
+/*Configurer texte défilant*/
 .déffilant {
 display: block;
 animation : linear marquelike 20s infinite ; 
